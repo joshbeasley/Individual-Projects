@@ -1,0 +1,85 @@
+body{
+  text-align: center;
+  font-family: Neuton;
+
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+ 
+
+}
+
+
+#top-links{
+  text-align: center;
+  font-size: 26px;
+  background-color: black;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+a{
+  color: white;
+}
+
+.image{
+  position: relative;
+
+}
+
+
+}
+#main-photo{
+  width: 1700px;
+}
+
+.image h1{
+  position: absolute;
+  top: 350px;
+  right: 70px;
+  font-size: 48px;
+  color: white;
+}
+
+.image p{
+  position: absolute;
+  top: 480px;
+  right: 150px;
+  font-size: 28px;
+  color: white;
+  width: 400px
+}
+
+.sec{
+    text-align: left;
+  padding: 20px 0px 20px 20px;
+}
+#sec-1{
+  background-color: black;
+  color: white;
+
+ }
+
+#sec-3{
+  background-color: black;
+  color: white;
+}
+
+.sec h3{
+  font-size: 48px;
+}
+.sec p{
+  width: 1500px;
+  font-size: 28px;
+}
+#top-link{
+  margin: 10px;
+}
+
+#links{
+  background-color: black;
+  color: white;
+}
+
