@@ -1,0 +1,35 @@
+ body {
+    background: url('https://images8.alphacoders.com/702/702959.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+.block{
+  margin-top: 100px;
+  background-color: black;
+  opacity: .7;
+  padding: 50px;
+  height: auto;
+  width: 1000px;
+  margin-left: auto;
+  margin-right:auto;
+  color: white;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  
+}
+
+#picture{
+  width: 50px;
+}
+
+.josh{
+  font-size: 20px;
+}
+
+#header{
+  width: 500px;
+  border-radius: 10px;
+}

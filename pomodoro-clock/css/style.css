@@ -1,0 +1,66 @@
+
+
+body{
+    background: url('http://cdn.wallpapersafari.com/93/40/uYAWv8.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+    font-family: 'Orbitron';
+}
+    
+
+.text-center{
+  
+}
+
+h2{
+  display: inline;
+}
+
+#start{
+  margin: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+.btn{
+  outline: 
+}
+
+.btn{
+  background-color: transparent;
+  border-color: #ff0;
+  color: #ffff00;
+ 
+  
+}
+
+#top{
+  background-color: yellow;
+  width: 490px;
+  margin: auto;
+  display: inline-block;
+  padding: 4px;
+  color: gray;
+  border-radius: 10px;
+  margin-top: 50px;
+  
+ 
+}
+
+#reset{
+   margin: 20px;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+h2{
+  margin: 10px;
+}

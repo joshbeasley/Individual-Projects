@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Simon Memory Game</title>
+  
+  
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
+
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <audio id="sound1" src="https://s3.amazonaws.com/freecodecamp/simonSound1.mp3" type="audio/mpeg">no support</audio>
+<audio id="sound2" src="https://s3.amazonaws.com/freecodecamp/simonSound2.mp3" type="audio/mpeg"></audio>
+<audio id="sound3" src="https://s3.amazonaws.com/freecodecamp/simonSound3.mp3" type="audio/mpeg"></audio>
+<audio id="sound4" src="https://s3.amazonaws.com/freecodecamp/simonSound4.mp3" type="audio/mpeg"></audio>
+
+
+<div class = 'container container-fluid text-center'>
+  <a class = 'card btn red' id = '1'></a>
+  <a class = 'card btn green' id = '2'></a>
+  <a class = 'card btn yellow' id = '3'></a>
+  <a class = 'card btn blue' id = '4'></a>
+  <div class = 'info' id = 'info'>
+    <h1>Simon<span id = 'copy'></span></h1>
+    <p id = 'counter'>Count: <span id = 'count'>-- </span></p>
+    <div id = "onoff">
+    <a id = 'on' class = 'btn btn-xs re'>on</a>
+    <a id = 'off' class = 'btn btn-xs btn-danger'>off</a>
+
+    </div>
+    
+    <a id = 'start' class = 'btn btn-xs btn-success'>Start</a>
+    <a id = 'strict' class = 'btn btn-warning btn-xs'>Strict</a>
+    
+  </div>
+</div>
+<h4 class = 'text-center'>A Beasley Inc. &copy Game
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+
+  
+
+    <script  src="js/index.js"></script>
+
+
+
+
+</body>
+
+</html>

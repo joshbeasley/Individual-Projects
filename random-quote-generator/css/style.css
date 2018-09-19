@@ -1,0 +1,46 @@
+.container-fluid{
+  background-image: url("http://wallpapercave.com/wp/gCEOPsV.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: Basic;
+   color: white;
+    
+}
+
+
+
+#top h1{
+  font-size: 60px;
+}
+
+#top p{
+  font-size: 22px;
+  padding-bottom: 20px;
+}
+
+.photo{
+  width: 500px;
+  border-radius: 10px
+}
+
+#quote{
+  background-color: black;
+  opacity: .7;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  margin-top: 40px;
+  padding: 50px;
+  height: auto;
+  margin-bottom: 25px;
+  border-radius: 5px;
+  font-size: 30px;
+  
+  
+  
+}
+
+.btn{
+  font-size: 20px;
+  margin-bottom: 50px;
+}
